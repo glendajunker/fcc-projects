@@ -19,3 +19,5 @@ console.log(`Hello it's me ${myName} and my age is ${myAge}`);
 
 // rather than
 console.log("Hello it's me " + myName + " and my age is " + myAge);
+
+// new comment
