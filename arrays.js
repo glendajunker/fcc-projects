@@ -9,3 +9,5 @@ const phoneNumbers = [5446841, 4945491, 78946545]
 console.log(schedule);
 
 console.log(phoneNumbers);
+
+const name = 'Felipe';
